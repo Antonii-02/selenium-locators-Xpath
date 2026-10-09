@@ -250,11 +250,11 @@ print("Completing form...")
 
 # Text
 text_input.clear()
-text_input.send_keys("Sivakumar")
+text_input.send_keys("ANTHONYRAJ")
 
 # Password
 password.clear()
-password.send_keys("Siva@123")
+password.send_keys("ANTH@123")
 
 # Checkbox
 if not checkbox.is_selected():
